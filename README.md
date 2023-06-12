@@ -10,12 +10,12 @@
 
 - Tela inicial
 <p align="center">
-<img src="./public/img/screen1.jpg" width="500" />
+<img src="./public/img/screen1.png" width="500" />
 </p>
 
 - Tela final com os dados da busca
 <p align="center">
-<img src="./public/img/screen2.jpg" width="500" />
+<img src="./public/img/screen2.png" width="500" />
 </p>
 
 ## :rocket: Tecnologias
